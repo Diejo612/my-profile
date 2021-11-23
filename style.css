@@ -143,3 +143,15 @@ footer h2 {
     text-align: center;
     width: 100%;
 }
+
+@media (max-width: 768px) {
+    footer h2 {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 480px){
+    footer h2 {
+        font-size: 10px;
+    }
+}
